@@ -1,5 +1,15 @@
 package StarPattern;
 
+/*
+ * Enter the number : 5
+*****
+*   *
+*   *
+*   *
+*****
+
+ */
+
 import java.util.Scanner;
 
 public class SquareHollowPattern {
