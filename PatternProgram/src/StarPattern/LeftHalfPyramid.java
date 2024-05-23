@@ -20,7 +20,7 @@ public class LeftHalfPyramid {
 		int num = sc.nextInt();
 
 		// outer loop for rows
-		for (int i = 1; i <=num; i++) 
+		for (int i = 1; i<=num; i++) 
 		{
 			//for sapces
 			for(int k=1; k<=num-i; k++)
