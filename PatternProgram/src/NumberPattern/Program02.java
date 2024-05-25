@@ -2,24 +2,21 @@ package NumberPattern;
 
 import java.util.Scanner;
 
-public class Program5 {
+public class Program02 {
 
-	public static void main(String[] args) 
-	{
+	public static void main(String[] args) {
 		// Take input from user
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter the number : ");
-		int n = sc.nextInt();
+		int num = sc.nextInt();
 		
-		int number=1;
 		//for rows
-		for(int i=1; i<=n; i++)
+		for(int i=1; i<=num; i++)
 		{
 			//for columns
-			for(int j=1; j<=n; j++)
+			for(int j=1; j<=num; j++)
 			{
-				System.out.print(number+" ");
-				number++;
+				System.out.print(j+" ");
 			}
 			System.out.println();
 		}

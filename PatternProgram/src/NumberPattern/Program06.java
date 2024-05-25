@@ -2,7 +2,7 @@ package NumberPattern;
 
 import java.util.Scanner;
 
-public class Program7 {
+public class Program06 {
 
 	public static void main(String[] args) {
 		// take input from user
@@ -14,7 +14,7 @@ public class Program7 {
 		{
 			for(int j=1; j<=i; j++)
 			{
-				System.out.print(j + " ");
+				System.out.print(i + " ");
 			}
 			System.out.println();
 		}
