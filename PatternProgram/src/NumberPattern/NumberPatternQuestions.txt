@@ -133,3 +133,29 @@ Enter the number : 5
   1 2 3 
  1 2 3 4 
 1 2 3 4 5 
+
+Program18 -->
+Enter the number : 5
+     1
+    123
+   12345
+  1234567
+ 123456789
+
+
+Program19 -->
+Enter the number : 5
+     1
+    333
+   55555
+  7777777
+ 999999999
+
+Program20 -->
+Enter the number : 5
+     1
+    321
+   54321
+  7654321
+ 987654321
+
