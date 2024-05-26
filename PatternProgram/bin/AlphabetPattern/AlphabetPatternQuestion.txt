@@ -60,4 +60,38 @@ A B C
 A B C D 
 A B C D E 
 
+Program09 -->
+A B C D E 
+A B C D 
+A B C 
+A B 
+A 
+
+Program10 -->
+    A
+   BB
+  CCC
+ DDDD
+EEEEE
+
+Program11 -->
+    A
+   AB
+  ABC
+ ABCD
+ABCDE
+
+Program12 -->
+EEEEE
+ DDDD
+  CCC
+   BB
+    A
+
+Program13 -->
+ABCDE
+ ABCD
+  ABC
+   AB
+    A
 
