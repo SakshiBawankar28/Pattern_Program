@@ -1,0 +1,48 @@
+Program01 -->
+Enter the input : 5
+A A A A A 
+B B B B B 
+C C C C C 
+D D D D D 
+E E E E E 
+
+Program02 -->
+Enter the input : 5
+A B C D E 
+F G H I J 
+K L M N O 
+P Q R S T 
+U V W X Y 
+
+Program03 -->
+Enter the input : 5
+A 
+B B 
+C C C 
+D D D D 
+E E E E E 
+
+Program04 -->
+Enter the input : 5
+A 
+B C 
+D E F 
+G H I J 
+K L M N O 
+
+Program05 -->
+Enter the input : 5
+A A A A A 
+B B B B 
+C C C 
+D D 
+E 
+
+Program06 -->
+Enter the input : 5
+A B C D E 
+F G H I 
+J K L 
+M N 
+O 
+
