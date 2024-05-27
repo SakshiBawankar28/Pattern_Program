@@ -95,4 +95,47 @@ ABCDE
    AB
     A
 
+Program14 -->
+    A 
+   B B 
+  C C C 
+ D D D D 
+E E E E E 
+
+Program15 -->
+    A 
+   A B 
+  A B C 
+ A B C D 
+A B C D E 
+
+Program16 -->
+E E E E E 
+ D D D D 
+  C C C 
+   B B 
+    A 
+
+Program17 -->
+A B C D E 
+ A B C D 
+  A B C 
+   A B 
+    A 
+
+Program18 -->
+Enter the input : 5
+A B C D E 
+ F G H I 
+  J K L 
+   M N 
+    O 
+
+Program19 -->
+Enter the input : 5
+    A 
+   B C 
+  D E F 
+ G H I J 
+K L M N O 
 
